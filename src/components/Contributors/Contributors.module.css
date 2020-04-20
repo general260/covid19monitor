@@ -1,0 +1,16 @@
+.aboutStyle a {
+    text-align: left !important; 
+    text-decoration: none;
+    color: rgb(156, 6, 6);
+    font-style: bold;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.aboutStyle h4 {
+    margin-left: 20px;
+    color: #4B0082;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

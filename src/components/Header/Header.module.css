@@ -1,0 +1,24 @@
+.headerStyle {
+    background: rgba(75, 0, 130, 0.5);
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    /* border-radius: 10px !important; */
+    padding-top: 5px;
+}
+
+.linkStyle {
+    background-color: #fff;
+    padding: 10px !important;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: #4B0082;
+    margin-bottom: 10px !important;
+    border-radius: 10px !important;
+}
+
+.linkStyle:hover {
+    background-color: rgba(75, 0, 130, 0.5);
+    color: #fff;
+}
